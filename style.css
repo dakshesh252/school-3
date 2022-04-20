@@ -1,0 +1,50 @@
+.travel_mainDiv
+{
+border: 1px solid lightgrey;
+}
+.travel_mainDiv ing
+{
+width: 100%;
+}
+
+.travel_mainDiv h5, travel_maindiv p
+{
+margin: 20px;
+}
+
+.movie_head
+{
+font-size: 20px;
+ padding: 6px 22px;
+  border-radius: 10px; 
+  margin-bottom: 15px;
+
+}
+.movie_head i {
+float: right;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding : 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  
+  
+  .achievement_text span {
+      color: orange;
+  }
+  
+  
+  .achievement_text img{
+      height: 350px;
+  }
+
+
+  #schoolname2 {
+      color: blue;
+      margin-left: 35%;
+      font-family: 'Secular One', sans-serif;
+      font-size: 50px;
+  }
